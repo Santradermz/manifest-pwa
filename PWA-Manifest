@@ -1,0 +1,20 @@
+{
+  "name": "Santradermz",
+  "short_name": "SAN",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50",
+  "icons": [
+    {
+      "src": "https://santradermz.blogspot.com/favicon.ico" rel="icon" type="image/x-icon",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://santradermz.blogspot.com/favicon.ico" rel="icon" type="image/x-icon",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
